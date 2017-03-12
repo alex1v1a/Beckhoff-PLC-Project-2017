@@ -19,13 +19,19 @@ The second half will be to figure out how to get the software to host the data t
 ### Project distribution
 
 Marc Alexander Sferrazza (Alex) 12164165 - PLC and ETHERCAT
+
 Abeer Ali Syed (Abeer) 12237898 - iOS App Development (C++)
+
 Divraj Singh (Div) 14076417 - Android App Development (Java)
+
 Maen Algharibeh (Maen or Mike) 10256119 PLC and ETHERCAT
 
 Alex - orangegeekit@gmail.com
+
 Abeer - syed.abeer.ali@live.com
+
 Div - sdivraj@gmail.com
+
 Maen - maen.a@hotmail.com
 
 ### Layout and formatting
