@@ -27,6 +27,7 @@ Divraj Singh (Div) 14076417 - Android App Development (Java)
 Maen Algharibeh (Maen or Mike) 10256119 PLC and ETHERCAT
 
 
+
 Alex - orangegeekit@gmail.com
 
 Abeer - syed.abeer.ali@live.com
