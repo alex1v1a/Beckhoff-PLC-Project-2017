@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Project Charter.aux
+The style file: ieeetr.bst
+Database file #1: references.bib
+Warning--empty journal in olsen2016teach
+Warning--empty journal in helmke2016improvement
+You've used 11 entries,
+            1876 wiz_defined-function locations,
+            531 strings with 5591 characters,
+and the built_in function-call counts, 3430 in all, are:
+= -- 340
+> -- 114
+< -- 0
++ -- 43
+- -- 32
+* -- 229
+:= -- 460
+add.period$ -- 12
+call.type$ -- 11
+change.case$ -- 10
+chr.to.int$ -- 0
+cite$ -- 13
+duplicate$ -- 187
+empty$ -- 342
+format.name$ -- 32
+if$ -- 845
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 12
+newline$ -- 37
+num.names$ -- 11
+pop$ -- 50
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 130
+stack$ -- 0
+substring$ -- 276
+swap$ -- 79
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 31
+width$ -- 13
+write$ -- 107
+(There were 2 warnings)
