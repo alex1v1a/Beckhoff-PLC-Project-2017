@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.12)  22 MAR 2017 01:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.12)  22 MAR 2017 01:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -453,12 +453,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--34
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 52--53
+Underfull \hbox (badness 1005) in paragraph at lines 43--44
+[]\OT1/ptm/m/it/10 This project is go-ing to be car-ried out un-der
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 54--55
 []\OT1/ptm/m/n/10 In in-tel-li-gent fac-to-ries, ma-chines and prod-ucts
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1365) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -467,12 +472,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 82--83
+Underfull \hbox (badness 1253) in paragraph at lines 84--85
 []\OT1/ptm/m/n/10 Beckhoff Au-toma-tion the com-pany is a di-rect
  []
 
@@ -481,64 +486,63 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 103.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 105.
 
-Underfull \hbox (badness 5533) in paragraph at lines 117--118
+Underfull \hbox (badness 5533) in paragraph at lines 119--120
 []\OT1/ptm/m/n/10 This project is au-tho-rised by Dr. Frazer
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 \OT1/ptm/m/n/10 No-ble(mentor/supervisor), Dr. Khalid
  []
 
 
-Underfull \hbox (badness 4060) in paragraph at lines 117--118
+Underfull \hbox (badness 4060) in paragraph at lines 119--120
 \OT1/ptm/m/n/10 Arif(mentor/supervisor) and Omer Naveed (Beck-
  []
 
-[4] <images/Management.png, id=45, 598.235pt x 462.72874pt>
-File: images/Management.png Graphic file (type png)
-
-<use images/Management.png>
-Package pdftex.def Info: images/Management.png used on input line 178.
-(pdftex.def)             Requested size: 221.32687pt x 171.19283pt.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 179.
+<images/Timeline.png, id=41, 525.965pt x 499.8675pt>
+File: images/Timeline.png Graphic file (type png)
+ <use images/Timeline.png>
+Package pdftex.def Info: images/Timeline.png used on input line 151.
+(pdftex.def)             Requested size: 221.32687pt x 210.34717pt.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 152.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 179.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 152.
+ [4 <./images/Timeline.png>] <images/Management.png, id=49, 598.235pt x 462.728
+74pt>
+File: images/Management.png Graphic file (type png)
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 186--187
+<use images/Management.png>
+Package pdftex.def Info: images/Management.png used on input line 195.
+(pdftex.def)             Requested size: 221.32687pt x 171.19283pt.
+ [5 <./images/Management.png>]
+Underfull \hbox (badness 1484) in paragraph at lines 203--204
 []\OT1/ptm/m/n/10 However, in chance of any ac-ci-dents or near
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5 <./images/Management.png>] <images/Preformance.png, id=52, 518.93875pt x 32
-2.20375pt>
+
+<images/Preformance.png, id=54, 518.93875pt x 322.20375pt>
 File: images/Preformance.png Graphic file (type png)
 
 <use images/Preformance.png>
-Package pdftex.def Info: images/Preformance.png used on input line 209.
+Package pdftex.def Info: images/Preformance.png used on input line 226.
 (pdftex.def)             Requested size: 221.32687pt x 137.41904pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1092) in paragraph at lines 225--226
+Underfull \hbox (badness 1092) in paragraph at lines 242--243
 \OT1/ptm/m/n/10 Fistly, As-so-ciate Pro-fes-sor Jo-han Pot-gi-eter. Also,
  []
 
-(./Project Charter.bbl
+[6 <./images/Preformance.png>] (./Project Charter.bbl
 Underfull \hbox (badness 1975) in paragraph at lines 4--6
 []\OT1/ptm/m/n/9 J. Heag-ney, \OT1/ptm/m/it/9 Fun-da-men-tals of project man-ag
 e-ment\OT1/ptm/m/n/9 .
@@ -547,7 +551,11 @@ e-ment\OT1/ptm/m/n/9 .
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6 <./images/Preformance.png>]) [7
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7])
+[8
 
 ] (./Project Charter.aux)
 
@@ -555,10 +563,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4049 strings out of 493014
- 58924 string characters out of 6133351
- 134896 words of memory out of 5000000
- 7485 multiletter control sequences out of 15000+600000
+ 4055 strings out of 493014
+ 59045 string characters out of 6133351
+ 134904 words of memory out of 5000000
+ 7490 multiletter control sequences out of 15000+600000
  40058 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,18n,40p,886b,366s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -571,10 +579,10 @@ exmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2016/texmf-di
 st/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
 ype1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/t
 imes/utmri8a.pfb>
-Output written on "Project Charter.pdf" (7 pages, 372601 bytes).
+Output written on "Project Charter.pdf" (8 pages, 512266 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
+ 94 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
