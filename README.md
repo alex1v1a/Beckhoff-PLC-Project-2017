@@ -6,6 +6,9 @@ You can use [this link](http://gofile.me/27IN6/7Uf7CWD8H) to download the files 
 
 Please install and check out the TWINCAT software, I’ve provided a link to my server above for direct download so you don't need to make an account. Will be easy if they ask us questions.
 
+Further instructions:
+http://www.contactandcoil.com/twincat-3-tutorial/quick-start/
+
 ### ETHERCAT
 
 We also will need to know what exactly ETHERCAT protocol is and how it is implemented.
