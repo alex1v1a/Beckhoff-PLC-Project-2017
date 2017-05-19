@@ -1,0 +1,28 @@
+Beckhoff Capstone Project 2017
+Marc Alexander Sferrazza 12164165
+
+For our group work, we divided the work to our strengths, but we try work with each others areas to converge the tasks so they will work together nicely and behave.
+
+I have been delegated to networking the Beckhoff communication with the iOS app, which I believe to be my strength over others, and I am fairly comfortable and confident with networking environments.
+
+So far the groups progress has mostly been research in sensors, analog to digital conversion, voltage to current measurements with 4-20mA output deminstrated current loops for industry standards and how we will be able to make this more universal in the sense of attaching any or multiple analog sensors with specific parameters and getting a useful readings. 
+
+While the equipment was on its way we were unable to start development in the PLC programming on the Beckhoff unit itself; however that has not stopped us from installing the software on our own computers and exploring the environment, watching online tutorials and getting up to date. 
+
+I have organised several meetings with the group where many of the projects aspects have been discussed and reviewed to get a better sense as to what were are doing, what we want to make happen and how to do it more specifically.
+
+The development in the app has began, and work on a custom PCB board is underway. 
+
+On a more personal aspect I have been been the groups coordinator which has been the most significant role myself so far, in respect to following up on progress, the little nit picking that needs to be done when pruning my peers and making the final documents for submission; but mainly guiding the how things will work in a basic design. 
+
+From here I have explained thoroughly numerous times the process and understanding as the projects constraints become more vivid.
+
+I have helped direct in how to design the app and features, as well as how it can read from the host Beckhoff computer remotely.
+
+I also underlined key features and problems that may arise and how we might address them, the deliverables and what is hoped to be achieved, along with the design and method.
+
+More specifically how we are going to design our rig, using the Ether-cat module bus coupler and the 4 channel digital output with the 2 channel analog input, what is going to be controlled and what are we sensing, and how to communicate and react to the information being relayed with the remote app and so on.
+
+I think where the group stands now is very far behind in terms of what has been produced so far, which is something we will have to address and catch up on in the mid year break but the work we are behind in is achievable now we have the Beckhoff unit available.
+
+Thanks for listening, Caio~
